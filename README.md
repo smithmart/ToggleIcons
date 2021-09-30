@@ -1,0 +1,3 @@
+# ToggleIcons
+
+run it to hide your desktop icon, run it again to show them...
