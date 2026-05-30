@@ -10,6 +10,8 @@
     <PublishSingleFile>true</PublishSingleFile>
     <SelfContained>true</SelfContained>
     <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <name>Toggle Icons</name>
+    <AssemblyName>toggle-icons</AssemblyName>
   </PropertyGroup>
 
 </Project>
